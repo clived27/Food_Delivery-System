@@ -1,0 +1,531 @@
+21
+Anna Dosa Wala
+218
+Dharampeth
+0 45
+4
+Bread Pakora
+20 25.000000 0 10
+Masala Maggi
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Samosa
+50 15.000000 0 10
+4
+Chicken Dum Biryani
+12 271.299988 0 44
+Chole Bhature
+12 192.600006 0 43
+Dal Tadka
+27 275.140015 0 32
+Paneer Tikka
+24 332.890015 0 28
+Jumbo Tarri Poha
+15 129.619995 0 25
+Babanrao Tarri Poha
+219
+Sitabuldi
+0 18
+5
+Bread Pakora
+20 25.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+5
+Chicken Manchurian
+10 249.339996 0 25
+Dal Tadka
+22 196.710007 0 38
+Hakka Noodles
+26 117.059998 0 45
+Mutton Rogan Josh
+25 336.369995 0 29
+Special Veg Thali
+14 275.059998 0 39
+Sunday Special Biryani
+15 195.740005 0 25
+Barbecue Restaurant
+216
+Mate Square
+0 45
+4
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+5
+Butter Chicken
+11 385.119995 0 28
+Masala Dosa
+28 311.989990 0 27
+Mutton Rogan Josh
+24 314.140015 0 31
+Paneer Butter Masala
+14 359.079987 0 27
+Saoji Mutton
+11 340.769989 0 21
+Sunday Special Biryani
+15 269.989990 0 38
+Breakfast Story
+212
+Wardha Road
+0 30
+4
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Lassi
+25 40.000000 0 5
+Poha
+60 20.000000 0 10
+5
+Masala Dosa
+30 237.399994 0 43
+Paneer Butter Masala
+16 112.680000 0 30
+Paneer Tikka
+10 191.690002 0 30
+Tarri Poha
+26 326.519989 0 22
+Veg Kolhapuri
+19 168.139999 0 44
+Jumbo Tarri Poha
+15 335.239990 0 25
+Campus Adda
+211
+Sitabuldi
+0 16
+4
+Bread Pakora
+20 25.000000 0 10
+Cold Coffee
+30 50.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Samosa
+50 15.000000 0 10
+4
+Butter Chicken
+27 200.949997 0 32
+Chicken Manchurian
+20 247.539993 0 44
+Dal Tadka
+30 135.830002 0 28
+Hakka Noodles
+20 162.960007 0 43
+Sunday Special Biryani
+15 277.690002 0 20
+Chandu Canteen
+201
+VNIT
+0 31
+5
+Bread Pakora
+20 25.000000 0 10
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Lassi
+25 40.000000 0 5
+Masala Maggi
+40 40.000000 0 15
+4
+Chicken Dum Biryani
+10 120.580002 0 22
+Chole Bhature
+26 305.989990 0 40
+Mutton Rogan Josh
+28 383.279999 0 32
+Saoji Mutton
+19 314.690002 0 31
+Chandu's Special Cold Coffee
+50 60.000000 0 10
+Checkers
+215
+Sitabuldi
+0 41
+5
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Samosa
+50 15.000000 0 10
+4
+Masala Dosa
+29 131.800003 0 28
+Mutton Rogan Josh
+24 175.320007 0 28
+Tandoori Roti
+17 184.500000 0 36
+Veg Kolhapuri
+16 396.230011 0 42
+Maharaja Thali
+15 300.220001 0 28
+Fuel Station Cafe
+207
+Sadar
+0 29
+5
+Cold Coffee
+30 50.000000 0 10
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+4
+Chicken Manchurian
+25 157.570007 0 44
+Hakka Noodles
+28 272.709991 0 26
+Masala Dosa
+16 383.850006 0 26
+Special Veg Thali
+17 200.949997 0 39
+Chef's Special Noodles
+15 255.130005 0 28
+Ganesh Bhojnalaya
+210
+Bajaj Nagar
+0 36
+4
+Bread Pakora
+20 25.000000 0 10
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Samosa
+50 15.000000 0 10
+5
+Chole Bhature
+14 117.580002 0 30
+Dal Tadka
+17 193.679993 0 39
+Masala Dosa
+17 303.470001 0 27
+Paneer Butter Masala
+26 244.059998 0 35
+Paneer Tikka
+28 258.760010 0 21
+Sunday Special Biryani
+15 234.179993 0 21
+Garv's
+1
+CVR
+0 30
+1
+Masala Maggi
+40 40.000000 0 20
+0
+Pav Bhaji
+20 100.000000 0 30
+Haldirams
+204
+Sitabuldi
+0 40
+4
+Cold Coffee
+30 50.000000 0 10
+Lassi
+25 40.000000 0 5
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+4
+Masala Dosa
+30 398.910004 0 35
+Special Veg Thali
+18 187.149994 0 34
+Tandoori Roti
+20 280.220001 0 42
+Veg Kolhapuri
+28 212.860001 0 34
+Chef's Special Noodles
+15 253.320007 0 35
+Indian Coffee House
+217
+Wardha Road
+0 45
+4
+Bread Pakora
+20 25.000000 0 10
+Cold Coffee
+30 50.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+4
+Butter Chicken
+28 283.500000 0 29
+Masala Dosa
+30 314.929993 0 31
+Tandoori Roti
+20 147.029999 0 39
+Tarri Poha
+28 384.670013 0 34
+Jumbo Tarri Poha
+15 299.619995 0 36
+Jagdish Saoji
+209
+Mate Square
+0 45
+5
+Cold Coffee
+30 50.000000 0 10
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Poha
+60 20.000000 0 10
+Samosa
+50 15.000000 0 10
+4
+Paneer Tikka
+23 164.029999 0 43
+Special Veg Thali
+28 202.570007 0 35
+Tandoori Roti
+28 324.940002 0 27
+Veg Kolhapuri
+28 165.500000 0 35
+Jumbo Tarri Poha
+15 178.520004 0 36
+Keskar Sir's Restaurant
+200
+VNIT
+0 43
+4
+Cold Coffee
+30 50.000000 0 10
+Kachori
+30 20.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Samosa
+50 15.000000 0 10
+5
+Butter Chicken
+13 109.260002 0 26
+Dal Tadka
+22 305.760010 0 30
+Mutton Rogan Josh
+10 372.989990 0 40
+Tarri Poha
+30 390.339996 0 32
+Veg Kolhapuri
+25 265.809998 0 42
+Keskar Sir's Special Thali
+20 150.000000 0 30
+Krishnum
+206
+Wardha Road
+0 37
+5
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Poha
+60 20.000000 0 10
+5
+Butter Chicken
+30 378.510010 0 29
+Chicken Dum Biryani
+28 248.330002 0 28
+Chole Bhature
+12 226.309998 0 36
+Hakka Noodles
+30 196.149994 0 27
+Special Veg Thali
+12 277.250000 0 40
+Chef's Special Noodles
+15 150.580002 0 39
+Pintu Samosa Wala
+214
+Bajaj Nagar
+0 16
+5
+Bread Pakora
+20 25.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Lassi
+25 40.000000 0 5
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+4
+Butter Chicken
+17 170.889999 0 35
+Dal Tadka
+28 370.179993 0 21
+Paneer Tikka
+14 343.739990 0 33
+Special Veg Thali
+27 313.570007 0 43
+Chef's Special Noodles
+15 181.570007 0 38
+Reddys Biryani
+208
+Dharampeth
+0 20
+5
+Cold Coffee
+30 50.000000 0 10
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Poha
+60 20.000000 0 10
+Samosa
+50 15.000000 0 10
+4
+Mutton Rogan Josh
+12 327.109985 0 25
+Tandoori Roti
+12 106.260002 0 41
+Tarri Poha
+23 398.660004 0 30
+Veg Kolhapuri
+18 317.070007 0 25
+Maharaja Thali
+15 167.979996 0 27
+Roast Cafe
+213
+IT Park
+0 34
+5
+Cold Coffee
+30 50.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Poha
+60 20.000000 0 10
+5
+Butter Chicken
+14 209.100006 0 27
+Chicken Manchurian
+27 263.510010 0 33
+Chole Bhature
+11 270.329987 0 23
+Dal Tadka
+27 389.070007 0 32
+Saoji Mutton
+17 132.729996 0 23
+Jumbo Tarri Poha
+15 159.119995 0 26
+Shabana Bakery
+205
+Sitabuldi
+0 35
+4
+Bread Pakora
+20 25.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Poha
+60 20.000000 0 10
+Samosa
+50 15.000000 0 10
+4
+Masala Dosa
+26 394.589996 0 27
+Mutton Rogan Josh
+29 168.550003 0 41
+Paneer Tikka
+15 252.979996 0 33
+Veg Kolhapuri
+24 140.460007 0 35
+Jumbo Tarri Poha
+15 201.850006 0 24
+VLSC Night Canteen
+202
+VNIT
+0 28
+5
+Cold Coffee
+30 50.000000 0 10
+Kachori
+30 20.000000 0 10
+Lassi
+25 40.000000 0 5
+Masala Maggi
+40 40.000000 0 15
+Samosa
+50 15.000000 0 10
+5
+Dal Tadka
+23 277.079987 0 39
+Masala Dosa
+23 305.829987 0 25
+Paneer Butter Masala
+13 195.649994 0 20
+Saoji Mutton
+15 120.639999 0 44
+Tarri Poha
+23 183.649994 0 21
+Maharaja Thali
+15 311.079987 0 30
+VRCE Food Court
+203
+VNIT
+0 40
+5
+Bread Pakora
+20 25.000000 0 10
+Cutting Chai
+100 10.000000 0 5
+Kachori
+30 20.000000 0 10
+Masala Maggi
+40 40.000000 0 15
+Samosa
+50 15.000000 0 10
+5
+Chicken Manchurian
+24 399.799988 0 34
+Chole Bhature
+30 231.500000 0 45
+Paneer Butter Masala
+18 273.700012 0 35
+Tandoori Roti
+22 145.779999 0 42
+Tarri Poha
+30 399.220001 0 28
+Maharaja Thali
+15 174.729996 0 28

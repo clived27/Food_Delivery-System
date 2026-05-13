@@ -1,0 +1,17 @@
+# Define the compiler
+CC = gcc
+
+# Define the folders
+INCLUDES = -I include
+SRC = src/*.c
+
+# Define the name of your final program
+TARGET = food_app
+
+# The default rule when you just type 'make'
+all:
+	$(CC) $(SRC) $(INCLUDES) -o $(TARGET)
+
+# A rule to clean up the compiled file (type 'make clean')
+clean:
+	rm -f $(TARGET)
